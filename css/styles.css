@@ -37,8 +37,7 @@ hr {
 }
 
 .bottom-hr {
-  position: relative;
-  left: 350px;
+  margin: auto auto auto 350px;
 }
 
 a{
